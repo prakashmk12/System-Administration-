@@ -1,0 +1,203 @@
+PART A — 1 MARK
+
+1. What does it indicate if the command ping 8.8.8.8 works but ping www.google.com fails?
+
+A) The network interface is disabled
+B) The DNS service is not functioning properly
+C) The system is offline
+D) The router is not connected
+
+2. The command free -m is used to display:
+
+A) Disk usage in megabytes
+B) Memory usage in megabytes
+C) CPU utilization percentage
+D) Network usage in MB
+
+3. Which configuration file is used to set SSH server settings in Linux?
+
+A) /etc/ssh/sshd_config
+B) /etc/ssh/ssh_config
+C) /etc/services
+D) /etc/network/interfaces
+
+4. In Linux file permissions, what does the permission value "755" indicate?
+
+A) Read, write, and execute for owner; no access for others
+B) Read, write, and execute for everyone
+C) Full access for owner, read and execute for group and others
+D) Read-only for all users
+
+5. Which command is used to modify file permissions?
+
+A) chmod
+B) chown
+C) passwd
+D) setfacl
+
+6. A shell script is usually written in which language?
+
+A) Python
+B) Bash
+C) Java
+D) C++
+
+7. What is the default port number used by SSH?
+
+A) 20
+B) 21
+C) 22
+D) 23
+
+8. Which command is used to display real-time CPU and memory usage in Linux?
+
+A) top
+B) df
+C) du
+D) ls
+
+9. You want to assign a user-input value to a variable called name. Which command applies correctly?
+
+A) read name
+B) input name
+C) echo name
+D) get name
+
+10. You need to view existing ACL entries for a file. Which command should you apply?
+
+A) ls -l filename
+B) getfacl filename
+C) lsattr filename
+D) chmod filename
+
+11. Why might an administrator check the /var/log/secure file?
+
+A) To monitor memory usage
+B) To review security and authentication-related messages
+C) To display disk partitions
+D) To analyze CPU utilization
+
+12. What is the purpose of the ping command?
+
+A) To configure IP address
+B) To test network connectivity
+C) To display routing table
+D) To start a network service
+
+13. To test end-to-end connectivity between two hosts, which command should be applied?
+
+A) ping
+B) ifconfig -a
+C) netstat -tuln
+D) hostnamectl
+
+14. Which symbol is used for comments in a shell script?
+
+A) //
+B) /*
+C) #
+D) --
+
+15. In a script, you want to stop execution immediately when any command fails. Which setting should you apply?
+
+A) set -e
+B) set +x
+C) trap exit
+D) exit 0
+
+16. What is the main purpose of the systemctl command?
+
+A) To manage files
+B) To manage network interfaces
+C) To manage system services
+D) To view log files
+
+17. What is the best command to check detailed memory usage including cache and swap information?
+
+A) free -h
+B) top
+C) df -h
+D) vmstat 2
+
+18. Which command can be used to view active network connections?
+
+A) netstat
+B) ls
+C) pwd
+D) df
+
+19. Which command is used to display text in a shell script?
+
+A) print
+B) display
+C) echo
+D) show
+
+20. Which command displays system load averages over time?
+
+A) uptime
+B) free
+C) du
+D) top -n
+
+Answers
+1. B — DNS service is not functioning properly
+
+
+2. B — Memory usage in megabytes
+
+
+3. A — /etc/ssh/sshd_config
+
+
+4. C — Full access for owner, read and execute for group and others
+
+
+5. A — chmod
+
+
+6. B — Bash
+
+
+7. C — 22
+
+
+8. A — top
+
+
+9. A — read name
+
+
+10. B — getfacl filename
+
+
+11. B — Review security and authentication-related messages
+
+
+12. B — To test network connectivity
+
+
+13. A — ping
+
+
+14. C — #
+
+
+15. A — set -e
+
+
+16. C — To manage system services
+
+
+17. A — free -h
+
+
+18. A — netstat
+
+
+19. C — echo
+
+
+20. A — uptime
+
+
